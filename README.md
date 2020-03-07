@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+RB is a structure of a database that tabular in nature and SQL is th language used to interact with that database
+
 - [ ] Why do tables need a `primary key`?
+
+in order to identify each column uniquely in a database
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+an intermediate table that contains foreign keys that link to the primary key.
 
 ## Minimum Viable Product
 
